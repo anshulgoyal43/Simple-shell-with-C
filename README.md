@@ -1,2 +1,2 @@
 # Simple-shell-with-C
-Old operating systems assignment
+Old Operating systems assignment
