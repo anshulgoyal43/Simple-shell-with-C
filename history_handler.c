@@ -1,6 +1,3 @@
-//
-// Created by Pulak Malhotra on 01/09/20.
-//
 #include "headers.h"
 #include "history_handler.h"
 #include "util.h"
