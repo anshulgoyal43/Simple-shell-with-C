@@ -1,7 +1,4 @@
-//
-// Created by Pulak Malhotra on 31/08/20.
-//
-
+/
 #ifndef UNTITLED_HEADERS_H
 #define UNTITLED_HEADERS_H
 #include<stdio.h>
