@@ -1,5 +1,4 @@
 //
-// Created by Pulak Malhotra on 01/09/20.
 //
 #include "headers.h"
 #include "zombie_killer.h"
