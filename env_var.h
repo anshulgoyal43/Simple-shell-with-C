@@ -1,6 +1,3 @@
-//
-// Created by Pulak Malhotra on 15/09/20.
-//
 
 #ifndef OS_ASSIGNMENTS_ENV_VAR_H
 #define OS_ASSIGNMENTS_ENV_VAR_H
