@@ -1,6 +1,3 @@
-//
-// Created by Pulak Malhotra on 15/09/20.
-//
 
 #include "env_var.h"
 #include "headers.h"
