@@ -65,5 +65,4 @@
 #### To Debug
 - ./s2.sh
 
-coded on mac with the help of parallels for Linux VM
 
