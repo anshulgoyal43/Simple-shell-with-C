@@ -1,5 +1,4 @@
 //
-// Created by Pulak Malhotra on 01/09/20.
 //
 
 #ifndef UNTITLED_ZOMBIE_KILLER_H
