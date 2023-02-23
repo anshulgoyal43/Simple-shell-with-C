@@ -1,6 +1,3 @@
-//
-// Created by Pulak Malhotra on 01/09/20.
-//
 
 #ifndef UNTITLED_HISTORY_HANDLER_H
 #define UNTITLED_HISTORY_HANDLER_H
