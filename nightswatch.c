@@ -1,6 +1,4 @@
-//
-// Created by Pulak Malhotra on 02/09/20.
-//
+
 #include "headers.h"
 #include "nightswatch.h"
 #include <termios.h>
