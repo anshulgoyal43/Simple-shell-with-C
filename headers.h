@@ -1,4 +1,3 @@
-/
 #ifndef UNTITLED_HEADERS_H
 #define UNTITLED_HEADERS_H
 #include<stdio.h>
