@@ -1,5 +1,4 @@
 //
-// Created by Pulak Malhotra on 31/08/20.
 //
 
 #ifndef UNTITLED_UTIL_H
