@@ -1,5 +1,4 @@
 //
-// Created by Pulak Malhotra on 31/08/20.
 //
 #include "headers.h"
 #include "util.h"
