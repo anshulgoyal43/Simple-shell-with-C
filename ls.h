@@ -1,6 +1,4 @@
-//
-// Created by Pulak Malhotra on 31/08/20.
-//
+
 
 #ifndef UNTITLED_LS_H
 #define UNTITLED_LS_H
