@@ -1,6 +1,4 @@
-//
-// Created by Pulak Malhotra on 15/09/20.
-//
+
 
 #include "parser.h"
 #include "headers.h"
